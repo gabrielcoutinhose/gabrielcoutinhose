@@ -1,15 +1,18 @@
 ### 👋 Welcome, Tech Enthusiasts!
 
-- I am committed to building solutions that are not only scalable, efficient and innovative, but also reliable and practical in real-world applications.
-- I believe that my work is not just about technical solutions, I seek to create meaningful improvements in people's lives.
+🧩 I am committed to building solutions that are not only scalable, efficient and innovative, but also reliable and **practical in real-world applications.**
+
+😄 I believe that my work is not just about technical solutions, I seek to create meaningful **improvements in people's lives.**
 
 ---
 
 ### 🌟 About Me
 
-- 🔭 **Currently working on:** Software engineering fundamentals, side projects and maybe a new indie hacker product...
-- 🌱 **Learning:** software architecture, infra, cloud, and another relational sub-areas of software engineering.
-- 🤝 **Looking to collaborate on:** Open-source projects with: my tech stack X a generous cause X tech problems / challenges.
+🔭 **Currently working on:** Software engineering fundamentals, side projects and maybe a new indie hacker product...
+
+🌱 **Learning:** software architecture, infra, cloud, and another relational sub-areas of software engineering.
+
+🤝 **Looking to collaborate on:** Open-source projects with: my tech stack X a generous cause X tech problems / challenges.
 
 ---
 
