@@ -1,3 +1,5 @@
+--- 
+
 ### 👋 Welcome, Tech Enthusiasts!
 
 🧩 I am committed to building solutions that are not only scalable, efficient and innovative, but also reliable and **practical in real-world applications.**
@@ -90,11 +92,13 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 <!-- ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) -->
 
-<!-- #### **Cloud** -->
+#### **Cloud**
 
 <!-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) -->
 
-<!-- ### 🚀 **Featured Projects** -->
+---
+
+### 🚀 **Featured Projects**
 
 <!-- - **[Project 1](https://github.com/)** - Brief description ... -->
 <!-- - **[Project 2](https://github.com/)** - Brief description ... -->
@@ -103,21 +107,23 @@
 
 ---
 
-<!-- ### 🏆 **Certifications** -->
+### 🏆 **Certifications**
 
 <!-- - AWS Certified Solutions Architect -->
 
-<!-- --- -->
+--- 
 
-<!-- ### 📊 **GitHub Stats**
+### 📊 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielcoutinhose&show_icons=true&theme=github_dark&count_private=true&show_icons=true&include_all_commits)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcoutinhose&layout=pie&theme=github_dark)
 
---- -->
+--- 
 
 ### ⚡ **Interesting phrase**
 
 > "The solution often turns out more beautiful than the puzzle."  
 > – _Richard Dawkins_
+
+--- 
