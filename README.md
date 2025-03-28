@@ -102,28 +102,9 @@
 
 ---
 
-### 🚀 **Featured Projects**
-
-<!-- - **[Project 1](https://github.com/)** - Brief description ... -->
-<!-- - **[Project 2](https://github.com/)** - Brief description ... -->
-
-<!-- - Check out more in my [GitHub Repositories](https://github.com/yourusername)! -->
-
----
-
 ### 🏆 **Certifications**
 
 <!-- - AWS Certified Solutions Architect -->
-
---- 
-
-### 📊 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielcoutinhose&show_icons=true&theme=github_dark&count_private=true&show_icons=true&include_all_commits)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcoutinhose&layout=pie&theme=github_dark)
-
---- 
 
 ### ⚡ **Interesting phrase**
 
