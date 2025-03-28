@@ -87,7 +87,9 @@
 
 <!-- add AI LLM's like GPT / Grok / Cluade || another tools here -->
 
-#### **Infrastructure, DevOps, CI/CD and Cloud**
+#### **Software architecture, good practices and tests**
+
+#### **IaC, DevOps, CI/CD and Cloud**
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
