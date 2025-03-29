@@ -20,7 +20,7 @@
 
 ### 💻 Tech Stack
 
-#### **Programming language**
+#### **Programming languages**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
@@ -36,7 +36,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-<!-- add SASS here -->
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
 
 #### **Frameworks & Libraries**
 
@@ -58,7 +58,7 @@
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-<!-- Add SQLite here-->
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
@@ -68,7 +68,7 @@
 ![Mongoose](https://img.shields.io/badge/-Mongoose-800000?style=flat&logo=mongodb&logoColor=white)
 ![MongoDB Compass](https://img.shields.io/badge/-MongoDB%20Compass-47A248?style=flat&logo=mongodb&logoColor=white)
 
-<!-- add a cloud and local DB-Cache here -->
+<!-- add a cloud and local DB-Cache here  later-->
 
 #### **Tools**
 
@@ -85,15 +85,15 @@
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-<!-- add AI LLM's like GPT / Grok / Cluade || another tools here -->
+<!-- add AI LLM's like GPT / Grok / Cluade? || another tools here? -->
 
-#### **Software architecture, good practices and tests**
+#### **Software architecture, Good practices and Tests**
 
 #### **IaC, DevOps, CI/CD and Cloud**
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-<!-- add teraform -->
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
@@ -104,7 +104,7 @@
 
 ### 🏆 **Certifications**
 
-<!-- - AWS Certified Solutions Architect -->
+<!-- Add AWS Certified Solutions Architect later... -->
 
 ### ⚡ **Interesting phrase**
 
