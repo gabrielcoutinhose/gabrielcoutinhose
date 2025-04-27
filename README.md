@@ -24,12 +24,9 @@
 - MongoDB and PostgreSQL
 
 #### Front  End
+- HTML, CSS
 - React / Next
-- HTML, CSS, styled  components / tailwindCSS
-
-### 🏆 **Certifications**
-
-<!-- Add AWS Certified Solutions Architect later... -->
+- styled  components / tailwindCSS
 
 ### ⚡ **Interesting phrase**
 
