@@ -12,23 +12,6 @@
 
 - **Looking to collaborate on:** Open-source projects with: my tech stack X a generous cause X tech problems / challenges.
 
-### 💻 Tech Stack
-
-#### DevOps
-- Docker
-- Github  Actions
-
-#### Back End
-- Python
-- JS / TS
-- Node /  Express
-- MongoDB and PostgreSQL
-
-#### Front  End
-- HTML, CSS
-- React / Next
-- styled  components / tailwindCSS
-
 ### ⚡ **Interesting phrase**
 
 > "The solution often turns out more beautiful than the puzzle."  
