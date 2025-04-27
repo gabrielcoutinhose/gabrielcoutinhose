@@ -19,6 +19,7 @@
 - Github  Actions
 
 #### Back End
+- Python
 - JS / TS
 - Node /  Express
 - MongoDB and PostgreSQL
