@@ -1,3 +1,11 @@
+### 🌐 Available Languages / Idiomas Disponíveis / Idiomas Disponibles
+
+- 🇬🇧 [English (you are here)](./README.md)
+- 🇧🇷 [Português](./README.pt.md)
+- 🇪🇸 [Español](./README.es.md)
+
+---
+
 ### 👋 Welcome, Tech Enthusiasts!
 
 I'm a Full Stack Software Engineer focused on creating solutions that are not only scalable, efficient, and innovative — but also reliable and practical for real-world use.
