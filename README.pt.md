@@ -1,31 +1,31 @@
 ### 🌐 Idiomas Disponibles / Available Languages / Idiomas Disponíveis
 
 - 🇬🇧 [English](./README.md)
-- 🇧🇷 [Português](./README.pt.md)
-- 🇪🇸 [Español (estás aquí)](./README.es.md)
+- 🇧🇷 [Português (Está aqui)](./README.pt.md)
+- 🇪🇸 [Español](./README.es.md)
 
 ---
 
-### 👋 ¡Bienvenidos, entusiastas de la tecnología!
+### 👋 Bem-vindo(a), entusiasta da tecnologia!
 
-Soy un Ingeniero de Software Full Stack enfocado en crear soluciones que no solo sean escalables, eficientes e innovadoras — sino también confiables y prácticas para su aplicación en el mundo real.
+Sou um Engenheiro de Software Full Stack focado em criar soluções que não sejam apenas escaláveis, eficientes e inovadoras — mas também confiáveis e práticas para aplicação no mundo real.
 
-Creo que mi trabajo va más allá de escribir código; busco resolver problemas significativos y contribuir con resultados que realmente generen impacto.
-
----
-
-### 🌟 Sobre Mí
-
-- **Actualmente trabajando como:** Contractor, explorando proyectos paralelos — quizás incluso lanzando un nuevo producto como indie hacker.
-
-- **Estudiando:** Profundizando en arquitectura de software, prácticas de DevOps y computación en la nube.
-
-- **Buscando colaborar en:**  
-  Iniciativas open-source o proyectos colaborativos que combinen **desafíos reales**, **una stack tecnológica sólida** e **impacto con propósito**.
+Acredito que meu trabalho vai além de escrever código; busco resolver problemas significativos e contribuir com resultados que realmente gerem impacto.
 
 ---
 
-### ⚡ Frase Favorita
+### 🌟 Sobre Mim
 
-> "La solución suele ser más hermosa que el propio problema."  
-> — _Richard Dawkins_
+* **Atualmente trabalhando como:** Freelancer, explorando projetos paralelos — talvez até lançando um novo produto como indie hacker.
+
+* **Estudando:** Aprofundando meus conhecimentos em arquitetura de software, práticas de DevOps e computação em nuvem.
+
+* **Buscando colaborar em:**
+  Iniciativas open source ou projetos colaborativos que combinem **desafios reais**, **uma stack tecnológica robusta** e **impacto com propósito**.
+
+---
+
+### ⚡ Citação Favorita
+
+> "A solução costuma ser mais bonita que o próprio problema."
+> — *Richard Dawkins*
